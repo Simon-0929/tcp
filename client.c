@@ -6,6 +6,6 @@ int main()
     printf("i = %ld\n", i);
 
     printf("dddddddd\n");
-    printf("ddrrrrrrrrrrrrr");
+    printf("ddrrrr2222rrrrrrrrr");
     return 0;
 }
